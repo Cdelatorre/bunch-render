@@ -1,0 +1,309 @@
+{
+    "homeone": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Home One Section",
+        "content": {
+            "images":{
+                "banner_image":{
+                    "size":"362x484"
+                },
+                "right_shape_image":{
+                    "size":"141x125"
+                },
+                "left_shape_image":{
+                    "size":"137x127"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "hometwo": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Home Two Section",
+        "content": {
+            "images":{
+                "banner_image":{
+                    "size":"509x509"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "homethree": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Home Three Section",
+        "content": {
+            "images":{
+                "left_top_image":{
+                    "size":"90x90"
+                },
+                "right_top_image":{
+                    "size":"83x83"
+                },
+                "left_bottom_image":{
+                    "size":"83x83"
+                },
+                "right_bottom_image":{
+                    "size":"85x85"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "category": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Category Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "liveauction": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Live Gym Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "howwork": {
+        "builder": true,
+        "name": "How Work Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "count": "text",
+            "heading": "text",
+            "subheading": "text",
+            "modal": true
+        }
+    },
+    "winner": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Winner Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "upcoming": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Upcoming Gym Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images":{
+                "image":{
+                    "size":"62x62"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "review": "textarea-rich",
+            "modal": true
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "images":{
+                "image":{
+                    "size":"427x423"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea",
+            "modal": true
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images":{
+                "blog_image":{
+                    "size":"726x641",
+                    "thumb":"215x190"
+                }
+            },
+            "title": "text",
+            "description": "textarea-rich",
+            "modal": false
+        }
+    },
+    "counter": {
+        "builder": true,
+        "name": "Counter Section",
+        "element": {
+            "counter_digit": "text",
+            "sub_title": "text",
+            "modal": true
+        }
+    },
+
+
+    "breadcumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcumb Section",
+        "content": {
+            "images":{
+                "shape_image_light":{
+                    "size":"1920x386"
+                },
+                "shape_image":{
+                    "size":"1920x386"
+                }
+            }
+        }
+    },
+    "feature": {
+        "builder": false,
+        "no_selection": true,
+        "name": "Feature Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "title": "text",
+            "description": "textarea",
+            "feature_icon": "icon",
+            "modal": true
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images":{
+                "error_image":{
+                    "size":"449x449"
+                }
+            },
+            "heading": "text",
+            "subheading": "textarea",
+            "url": "text"
+        }
+    },
+    "about_dark": {
+        "builder": false,
+        "no_selection":true,
+        "name": "About Us Dark",
+        "content": {
+
+        }
+    },
+    "policy_pages": {
+        "builder": false,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-rich",
+            "modal": false
+        }
+    },
+    "error_404": {
+        "builder": true,
+        "no_selection":true,
+        "name": "404 Page",
+        "content": {
+            "images":{
+                "error_image":{
+                    "size":"430x285"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "description": "text"
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": false
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "greeting": "text",
+            "email": "text",
+            "address": "text",
+            "contact_number": "text",
+            "support_email": "text",
+            "latitude": "text",
+            "longitude": "text",
+            "website_footer": "textarea-rich",
+            "website_descripton": "textarea-rich"
+        }
+    },
+    "footer_important_links": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer - Important Links",
+        "element": {
+            "title": "text",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "footer_company_links": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer - Company Links",
+        "element": {
+            "title": "text",
+            "url": "text",
+            "modal": true
+        }
+    }
+}
